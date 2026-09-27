@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01_Functions/01_Functions.vcxproj" />
+  <Project Path="02_ControlFlow/02_ControlFlow.vcxproj" />
+  <Project Path="03_EnumStruct/03_EnumStruct.vcxproj" />
+</Solution>
