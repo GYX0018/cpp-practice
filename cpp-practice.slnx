@@ -3,7 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01_Functions/01_Functions.vcxproj" />
-  <Project Path="02_ControlFlow/02_ControlFlow.vcxproj" />
-  <Project Path="03_EnumStruct/03_EnumStruct.vcxproj" />
+  <Project Path="01_Functions/01_Functions.vcxproj" Id="0a3d2c64-0d10-49bf-8b4b-c7a39d2b4e3d" />
+  <Project Path="02_ControlFlow/02_ControlFlow.vcxproj" Id="590cbfa5-84e8-4d0f-a648-6bf0d4c887cb" />
+  <Project Path="03_EnumStruct/03_EnumStruct.vcxproj" Id="7c15af9a-6972-4c23-a2ed-3ca2b3bc584b" />
+  <Project Path="04_Pointers/04_Pointers.vcxproj" Id="688779bb-d61e-47ea-a3cb-7af37e4ea13e" />
 </Solution>
